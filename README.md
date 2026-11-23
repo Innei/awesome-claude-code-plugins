@@ -215,6 +215,7 @@ Install or disable them dynamically with the `/plugin` command — enabling you 
 - [visual-storyteller](./plugins/visual-storyteller)
 - [whimsy-injector](./plugins/whimsy-injector)
 - [claude-bionify](./plugins/claude-bionify)
+- [ryugi](https://github.com/Innei/ryugi) - Interactive artboards, design docs, whiteboards, slides and verify reports; comments go back to the agent (install via `/plugin marketplace add Innei/ryugi`)
 
 ### Development Engineering
 - [claude-sounds](https://github.com/culminationAI/claude-sounds)
